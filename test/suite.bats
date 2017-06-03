@@ -1,4 +1,4 @@
-#!/usr/bin/env bats
+#!/data/data/com.termux/files/usr/bin/env bats
 
 load test_helper
 fixtures suite
